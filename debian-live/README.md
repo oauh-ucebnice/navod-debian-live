@@ -6,7 +6,12 @@
 1. Přepni dialog do „expertního režimu“<br />![](deb-live_020_virtualbox-expertni.png)
 1. Nepřidávej virtuální disk — Live DVD bude startovat z&nbsp;DVD<br />![](deb-live_030_nastaveni-vm.png)
 1. Do virtuální DVD mechaniky musíme vložit Live DVD<br />![](deb-live_040_nastaveni.png)
-1. Vyber soubor s&nbsp;Live DVD z&nbsp;disku D:<br />![](deb-live_050_cd.png)
+1. Vyber soubor s&nbsp;Live DVD z&nbsp;disku D:
+
+    - `debian-live-XY.Z.0-amd64-gnome` &hellip; verze s&nbsp;grafickým uživatelským rozhraním GNOME (`XY.Z` je označení verze)
+    - `debian-live-XY.Z.0-amd64-standard` &hellip; verze bez grafického uživatelského rozhraní (jen příkazový řádek)
+    
+    ![](deb-live_050_cd.png)
 <br />![](deb-live_060_iso.png)
 1. Pokud na disku D: soubor není, zkopíruj si ho ze serveru `\\Dilna`<br />
 Doma můžeš Live DVD stáhnout ze stránek: [https://www.debian.org/CD/live/](https://www.debian.org/CD/live/)<br />
