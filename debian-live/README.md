@@ -13,7 +13,7 @@
     
     ![](deb-live_050_cd.png)
 <br />![](deb-live_060_iso.png)
-1. Pokud na disku D: soubor není, zkopíruj si ho ze serveru `\\Dilna`<br />
+1. Pokud na disku D: soubor není, zkopíruj si ho ze serveru `\\Dilna` ze složky `instalacni-obrazy`.<br />
 Doma můžeš Live DVD stáhnout ze stránek: [https://www.debian.org/CD/live/](https://www.debian.org/CD/live/)<br />
 ![](deb-live_070_copy-iso-dilna.png)
 1. Potvrď nastavení<br />![](deb-live_080_ok.png)
