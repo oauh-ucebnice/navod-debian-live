@@ -2,15 +2,16 @@
 
 ## Stažení obrazu ve škole
 
-Stažení obrazu ve škole:
+Stažení obrazu ve škole (použijte **aktuální verzi**):
 1. <br />![](img/010_dilna.png)
 1. <br />![](img/020_d-img.png)
 
 Stažení obrazu doma:
-1. Pokud stahujete obraz doma, použijte stažení varianty <code>netinst</code> (síťová instalace) ze stránek [Debian.org](https://www.debian.org):<br />![](img/030_download.png)
+1. Pokud stahujete obraz doma, použijte stažení varianty <code>netinst</code> (síťová instalace, malé instalační médium) ze stránek [Debian.org](https://www.debian.org):<br />![](img/030_download.png)
 
 ## Vytvoření virtuálního stroje
 1. Vytvořte nový virtuální stroj ve VirtualBoxu:<br />![VirtualBox: nastavení stroje](img/040_vm-config.png)
+1. <br />![](img/045_vm-config-cpu.png)
 1. <br />![](img/050_vm-disk.png)
 1. <br />![](img/060_start.png)
 1. <br />![](img/070_select-dvd.png)
