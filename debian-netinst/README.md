@@ -14,8 +14,8 @@ Stažení obrazu doma:
 1. <br />![](img/045_vm-config-cpu.png)
 1. <br />![](img/050_vm-disk.png)
 1. <br />![](img/060_start.png)
-1. <br />![](img/070_select-dvd.png)
-1. <br />![](img/080_add-iso.png)
+<!---1. <br />![](img/070_select-dvd.png)
+1. <br />![](img/080_add-iso.png)-->
 
 ## Postup instalace
 1. <br />![](img/090_installer.png)
